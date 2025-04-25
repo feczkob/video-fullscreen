@@ -3,19 +3,19 @@
 This simple extension allows you to play videos in full screen mode on any website.
 
 ## Manual installation
-1. Clone this repository to your local machine or just download the ZIP file and extract it: [download](https://github.com/feczkob/video-fullscreen/archive/refs/heads/master.zip).
+1. Clone this repository to your local machine using the Terminal or just download the ZIP file and extract it: [download](https://github.com/feczkob/video-fullscreen/archive/refs/heads/master.zip).
 ```bash
 git clone https://github.com/feczkob/video-fullscreen.git
 ```
 ![img_3.png](images/img_3.png)
 
-2. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
+2. Open Chrome and go to in the address bar type `chrome://extensions/` and hit enter.
 
-3. Enable "Developer mode" in the top right corner.
+3. Enable 'Developer mode' in the top right corner.
 
 ![img.png](images/img.png)
 
-4. Click on "Load unpacked" on the top left and select the cloned repository folder.
+4. Click on 'Load unpacked' in the top left and select the cloned/downloaded and extracted repository. Click on 'Select'.
 
 ![img_1.png](images/img_1.png)
 
@@ -25,11 +25,10 @@ git clone https://github.com/feczkob/video-fullscreen.git
 
 ## Usage
 1. Open Chrome and navigate to any website with a video.
+2. Click on the 'Video full screen' extension icon in the toolbar (top right). You may even pin the extension to the toolbar for easier access.
 
 ![img_7.png](images/img_7.png)
 
-2. Click on the 'Video full screen' extension icon in the toolbar (top right). You may even pin the extension to the toolbar for easier access.
+3. Click on the popup button.
 
 ![img_8.png](images/img_8.png)
-
-3. Click on the popup button.
