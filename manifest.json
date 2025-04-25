@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Video full screen",
+  "version": "1.0",
+  "description": "A simple extension",
+  "permissions": ["activeTab", "tabs", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
