@@ -3,7 +3,7 @@
 This simple extension allows you to play videos in full screen mode on any website.
 
 ## Manual installation
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine or just download the ZIP file and extract it: [download](https://github.com/feczkob/video-fullscreen/archive/refs/heads/master.zip).
 ```bash
 git clone https://github.com/feczkob/video-fullscreen.git
 ```
